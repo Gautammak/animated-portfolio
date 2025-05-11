@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
           I develop robust server-side logic, manage databases, and <br className='sm:block hidden' />
-          build scalable APIs for web applications.
+          build scalable APIs.
           </p>
         </div>
       </div>
