@@ -55,7 +55,6 @@ const ComputersCanvas = () => {
 
   return (
     <Canvas
-      frameloop="demand"
       shadows
       dpr={[1, 2]}
       camera={{ position: [20, 3, 5], fov: isMobile ? 35 : 25 }}
