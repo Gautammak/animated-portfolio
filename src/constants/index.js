@@ -153,7 +153,7 @@ const experiences = [
     company_name: "Logicwind",
     icon: logicwind,
     iconBg: "#E6DEDD",
-    date: "Oct 2023 - 5 April 2024",
+    date: "Oct 2023 - April 2024",
     points: [
       "Developed backend applications using JavaScript, Node.js, Express.js, Sequelize, PostgreSQL, and MongoDB, building efficient REST and GraphQL APIs.",
       "Implemented user authentication and event management features to ensure secure access and seamless functionality.",
