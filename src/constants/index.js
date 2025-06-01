@@ -84,6 +84,26 @@ const technologies = [
     icon: css,
   },
   {
+    name: "postman",
+    icon: postman,
+  },
+  {
+    name: "postgress",
+    icon: postgres,
+  },
+  {
+    name: "vscode",
+    icon: vscode,
+  },
+  {
+    name: "Graphql",
+    icon: graphql,
+  },
+   {
+    name: "sequelize",
+    icon: sequilize,
+  },
+    {
     name: "JavaScript",
     icon: javascript,
   },
@@ -100,28 +120,8 @@ const technologies = [
     icon: git,
   },
   {
-    name: "postman",
-    icon: postman,
-  },
-  {
-    name: "postgress",
-    icon: postgres,
-  },
-  {
-    name: "vscode",
-    icon: vscode,
-  },
-  {
-    name: "Graphql",
-    icon: graphql,
-  },
-  {
     name: "My Sql",
     icon: mysql,
-  },
-  {
-    name: "sequelize",
-    icon: sequilize,
   },
   {
     name: "express",
