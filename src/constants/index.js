@@ -75,14 +75,14 @@ const services = [
   },
 ];
 const technologies = [
-  // {
-  //   name: "HTML 5",
-  //   icon: html,
-  // },
-  // {
-  //   name: "CSS 3",
-  //   icon: css,
-  // },
+  {
+    name: "HTML 5",
+    icon: html,
+  },
+  {
+    name: "CSS 3",
+    icon: css,
+  },
   {
     name: "JavaScript",
     icon: javascript,
@@ -99,30 +99,30 @@ const technologies = [
     name: "git",
     icon: git,
   },
-  // {
-  //   name: "postman",
-  //   icon: postman,
-  // },
-  // {
-  //   name: "postgress",
-  //   icon: postgres,
-  // },
-  // {
-  //   name: "vscode",
-  //   icon: vscode,
-  // },
-  // {
-  //   name: "Graphql",
-  //   icon: graphql,
-  // },
+  {
+    name: "postman",
+    icon: postman,
+  },
+  {
+    name: "postgress",
+    icon: postgres,
+  },
+  {
+    name: "vscode",
+    icon: vscode,
+  },
+  {
+    name: "Graphql",
+    icon: graphql,
+  },
   {
     name: "My Sql",
     icon: mysql,
   },
-  // {
-  //   name: "sequelize",
-  //   icon: sequilize,
-  // },
+  {
+    name: "sequelize",
+    icon: sequilize,
+  },
   {
     name: "express",
     icon: express
