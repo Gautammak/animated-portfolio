@@ -56,7 +56,7 @@ const About = () => {
       </motion.p>
        
       <motion.div className="mt-8">
-      <a href="https://drive.google.com/file/d/1k-bp9AbHe_xcoxCHWQlsNKYCXg9A9NoD/view?usp=sharing" target="_blank"  rel="noopener noreferrer" className="inline-block bg-[#915EFF] text-white font-medium py-3 px-6 rounded-lg hover:bg-[#7a4fe4] transition duration-300">
+      <a href="https://drive.google.com/file/d/1qf1g_CHiaHAgjYi8Y4tKRRah-2T5klyl/view" target="_blank"  rel="noopener noreferrer" className="inline-block bg-[#915EFF] text-white font-medium py-3 px-6 rounded-lg hover:bg-[#7a4fe4] transition duration-300">
         Check Resume
       </a>
     </motion.div>
